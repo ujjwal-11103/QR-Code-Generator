@@ -1,5 +1,8 @@
 const inputText = document.getElementById("input-text");
 const imgArea = document.getElementById("img-area");
+
+const imgSection = document.getElementById("image-section")
+
 const btn = document.getElementById("btn")
 
 
@@ -12,5 +15,6 @@ btn.addEventListener('click', () => {
 
     scanner(inputText.value);
     imgArea.style.display = "block";
+
 })
 console.log("exited");
