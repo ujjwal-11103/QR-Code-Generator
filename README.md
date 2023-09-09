@@ -1,2 +1,3 @@
 # QR-Code-Generator
-QR Code Generator using API call
+- QR Code Generator using API call
+- 
